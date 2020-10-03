@@ -14,6 +14,9 @@ body,
 
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-image: url("./assets/20180819_140838.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 nav {
